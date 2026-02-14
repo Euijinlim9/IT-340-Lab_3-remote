@@ -1,0 +1,25 @@
+commit a4c9fb4d1f5fbc150359c92c4f428671de179249
+Author: jim <el296@njit.edu>
+Date:   Sat Feb 14 02:52:04 2026 +0000
+
+    Revert "test2 insert to osrelease"
+    
+    This reverts commit e2c6f74e1295e7a91b22589cb76afec76d4dfd87.
+
+commit e2c6f74e1295e7a91b22589cb76afec76d4dfd87
+Author: jim <el296@njit.edu>
+Date:   Sat Feb 14 02:51:04 2026 +0000
+
+    test2 insert to osrelease
+
+commit 8589b5ff1caed46b6b83473c6a948fb609517417
+Author: jim <el296@njit.edu>
+Date:   Sat Feb 14 01:57:38 2026 +0000
+
+    test two
+
+commit e057267fa42957df595735f46d8899a81b141411
+Author: jim <el296@njit.edu>
+Date:   Sat Feb 14 01:47:26 2026 +0000
+
+    initial commit
